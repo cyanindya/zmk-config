@@ -24,5 +24,8 @@ manifest:
     - name: eyelash_corne
       url: https://github.com/a741725193/zmk-new_corne
       revision: main
+    - name: nice-view-mod
+      remote: cyanindya
+      revision: main
   self:
     path: config
